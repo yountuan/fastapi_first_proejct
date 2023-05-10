@@ -1,0 +1,8 @@
+# orm
+sqlmodel
+# driver for postgres
+psycopg2-binary
+# data security
+python-decouple
+# API Framework
+fastapi[all]
